@@ -23,3 +23,4 @@ def scatterplot(data):
     plt.savefig("Cereal_Scatter.png")
     plt.show()
     return
+
