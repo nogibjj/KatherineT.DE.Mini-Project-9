@@ -9,7 +9,10 @@ format:
 	black *.py 
 
 lint:
-	ruff check *.py 
+	#disable comment to test speed
+	#pylint --disable=R,C --ignore-patterns=test_.*?py *.py mylib/*.py
+	#ruff linting is 10-100X faster than pylint
+	ruff check *.py mylib/*.py test_*.py *.ipynb
 
 container-lint:
 	docker run --rm -i hadolint/hadolint < Dockerfile
@@ -29,7 +32,7 @@ generate_and_push:
 	@if [ -n "$$(git status --porcelain)" ]; then \
 		git config --local user.email "action@github.com"; \
 		git config --local user.name "GitHub Action"; \
-		git add congress.png congress_summary.md; \
+		git add .; \
 		git commit -m "Add generated plot and report"; \
 		git push; \
 	else \
