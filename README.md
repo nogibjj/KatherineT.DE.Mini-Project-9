@@ -9,7 +9,7 @@ The purpose of this project is to use the previous mini projects and packages to
 ## Check format and test
 Use make test command to test the code
 
-<img width="847" alt="Screen Shot 2023-09-21 at 12 25 24 AM" src="https://github.com/nogibjj/KatherineT.DE.Individual-Project_1/assets/143833511/5b696723-464c-4ecf-a288-bd9230246c1a">
+<img width="847" alt="Screen Shot 2023-09-21 at 12 25 24 AM" src="https://github.com/nogibjj/KatherineT.DE.Individual-Project_1/assets/143833511/7d1d037c-0f44-48f3-bf27-7f4faa34842d">
 
 
 
