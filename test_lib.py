@@ -31,3 +31,4 @@ def test_scatter():
 if __name__ == "__main__":
     test_sum_stats()
     test_hist()
+    test_scatter()
