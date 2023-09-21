@@ -9,14 +9,13 @@ The purpose of this project is to use the previous mini projects and packages to
 ## Check format and test
 Use make test command to test the code
 
-<img width="739" alt="Screen Shot 2023-09-20 at 11 30 46 PM" src="https://github.com/nogibjj/KatherineT.DE.Individual-Project_1/assets/143833511/327dbbab-5438-4727-82dd-3e5b2963c691">
+<img width="847" alt="Screen Shot 2023-09-21 at 12 25 24 AM" src="https://github.com/nogibjj/KatherineT.DE.Individual-Project_1/assets/143833511/5b696723-464c-4ecf-a288-bd9230246c1a">
 
 
 
 Use make lint and format command to check the format
 
-<img width="670" alt="Screen Shot 2023-09-20 at 11 30 16 PM" src="https://github.com/nogibjj/KatherineT.DE.Individual-Project_1/assets/143833511/c65d9fd2-3c3c-428b-bc20-08b212468221">
-
+<img width="788" alt="Screen Shot 2023-09-21 at 12 25 40 AM" src="https://github.com/nogibjj/KatherineT.DE.Individual-Project_1/assets/143833511/a842aec8-bfb8-4e61-9253-fcf18765d294">
 
 
 ## Result
