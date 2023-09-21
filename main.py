@@ -3,11 +3,13 @@ Main
 """
 
 # import pandas and pyplot
-from mylib.lib import sum_stats,hist,scatterplot
+from mylib.lib import sum_stats, hist, scatterplot
+
 
 def generate_summary(data):
     summary = sum_stats(data)
     return summary
+
 
 def generate_markdown(data):
     """generate an md file with outputs"""
@@ -23,4 +25,3 @@ def generate_markdown(data):
         file.write("![hist](Cereal Calories.png)\n")
         file.write("\n\n")  # Add a new line
         file.write("![scatterplot](Cereal Scatter.png)\n")
-        

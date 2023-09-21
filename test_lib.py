@@ -21,6 +21,7 @@ def test_sum_stats():
     ), "Standard deviation test failed"
     print("All Test passed!")
 
+
 # test
 if __name__ == "__main__":
     test_sum_stats()

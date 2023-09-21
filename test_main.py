@@ -12,5 +12,6 @@ cereal = pd.read_csv("cereal.csv", sep=";")
 def test_markdown():
     generate_markdown(cereal)
 
+
 if __name__ == "__main__":
     test_markdown()
