@@ -10,7 +10,7 @@ Summary:
 | 75%   |   110      |   3       |  2       | 210      |  3       | 17       | 11       | 120      |    25      |  3        |  1        |  1        |  50.8284 |
 | max   |   160      |   6       |  5       | 320      | 14       | 23       | 15       | 330      |   100      |  3        |  1.5      |  1.5      |  93.7049 |
 
-![hist](Cereal Calories.png)
+![hist](Cereal_Calories.png)
 
 
-![scatterplot](Cereal Scatter.png)
+![scatterplot](Cereal_Scatter.png)
