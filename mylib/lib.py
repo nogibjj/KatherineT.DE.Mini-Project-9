@@ -11,8 +11,8 @@ def hist(data):
     plt.xlabel("Calories")
     plt.ylabel("Frequency")
     plt.title("Cereal Calories Histogram")
-    plt.show()
     plt.savefig("Cereal Calories.png")
+    plt.show()
     return
 
 def scatterplot(data):
@@ -20,6 +20,6 @@ def scatterplot(data):
     plt.xlabel("Sugar")
     plt.ylabel("Calories")
     plt.title("Cereal Sugar vs. Calories")
-    plt.show()
     plt.savefig("Cereal Scatter.png")
+    plt.show()
     return
