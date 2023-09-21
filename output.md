@@ -11,7 +11,7 @@ Summary:
 | max   |   160      |   6       |  5       | 320      | 14       | 23       | 15       | 330      |   100      |  3        |  1.5      |  1.5      |  93.7049 |
 
 
-![hist]("Cereal Calories.png")
+![hist](Cereal Calories.png)
 
 
-![scatter]("Cereal Scatter.png")
+![scatter](Cereal Scatter.png)
