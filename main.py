@@ -9,7 +9,7 @@ from mylib.lib import sum_stats, hist, scatterplot
 def generate_summary(data):
     summary = sum_stats(data)
     return summary
-
+ 
 
 def generate_markdown(data):
     """generate an md file with outputs"""
