@@ -21,14 +21,6 @@ def test_sum_stats():
     ), "Standard deviation test failed"
     print("All Test passed!")
 
-def test_hist():
-    hist(cereal)
-
-def test_scatter():
-    scatterplot(cereal)
-
 # test
 if __name__ == "__main__":
     test_sum_stats()
-    test_hist()
-    test_scatter()

@@ -20,7 +20,7 @@ def generate_markdown(data):
         file.write("Summary:\n")
         file.write(markdown_table)
         file.write("\n\n")  # Add a new line
-        file.write("![cereal](Cereal Calories.png)\n")
+        file.write("![hist](Cereal Calories.png)\n")
         file.write("\n\n")  # Add a new line
-        file.write("![cereal](Cereal Scatter.png)\n")
+        file.write("![scatterplot](Cereal Scatter.png)\n")
         
