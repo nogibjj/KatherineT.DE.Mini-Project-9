@@ -1,7 +1,7 @@
 """
 Test goes here
 """
-from mylib.lib import (sum_stats,hist,scatterplot)
+from mylib.lib import sum_stats
 import pandas as pd
 
 # read dataset
