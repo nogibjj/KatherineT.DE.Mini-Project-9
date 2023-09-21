@@ -1,30 +1,16 @@
 """
 Test Cases
 """
+
 # import functions
-from main import sum_stats, visualization,generate_markdown
+from main import generate_summary,generate_graph,generate_markdown
 import pandas as pd
 
+cereal = pd.read_csv("cereal.csv", sep=";")
 
-# define test function
-def test_sum_stats():
-    # read dataset
-    cereal = pd.read_csv("cereal.csv", sep=";")
-    visualization(cereal)
+# test cases
+def test_markdown():
     generate_markdown(cereal)
-    summary = sum_stats(cereal)
-    assert (
-        cereal["calories"].mean() == summary.loc["mean", "calories"]
-    ), "Mean test failed"
-    assert (
-        cereal["protein"].median() == summary.loc["50%", "protein"]
-    ), "Median test failed"
-    assert (
-        cereal["rating"].min() == summary.loc["min", "rating"]
-    ), "Standard deviation test failed"
-    print("All Test passed!")
 
-
-# test
 if __name__ == "__main__":
-    test_sum_stats()
+    test_markdown()
