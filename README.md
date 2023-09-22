@@ -1,6 +1,6 @@
 # Data Engineering Individual Project 1
 ## Purpose
-The purpose of this project is to use the previous mini projects and packages to analyze a dataset, obtain its summary statistics and visualization, using Github Actions. The dataset used here is the "cereal" dataset, which contains statistics of different cereal brands, including calories, ratings, weight, etc.
+The purpose of this project is to use the previous mini projects and packages to analyze a dataset, obtain its summary statistics and visualization, and achieve continuous integration using Github Actions. The dataset used here is the "cereal" dataset, which contains statistics of different cereal brands, including calories, ratings, weight, etc.
 
 ## Preparation
 1. Use the template which includes a Makefile, requirements.txt, .devcontainer, .gitignore, GitHubActions, and Readme.
