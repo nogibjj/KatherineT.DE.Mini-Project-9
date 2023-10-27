@@ -15,8 +15,11 @@ https://colab.research.google.com/drive/1jOa5mtyJ7oA7C078nc3LKKJkZSOJ5jvV#scroll
 ## Check format and lint
 Use make lint and format command to check the format
 
-<img width="788" alt="Screen Shot 2023-09-21 at 12 25 40 AM" src="https://github.com/nogibjj/KatherineT.DE.Individual-Project_1/assets/143833511/a842aec8-bfb8-4e61-9253-fcf18765d294">
+![Screen Shot 2023-10-26 at 10 56 18 PM](https://github.com/nogibjj/KatherineT.DE.Mini-Project_9/assets/143833511/07aa1967-96f4-4934-a99f-3aa16b560bcd)
 
+
+
+![Screen Shot 2023-10-26 at 10 56 35 PM](https://github.com/nogibjj/KatherineT.DE.Mini-Project_9/assets/143833511/26086d65-cb2e-4fd7-b10d-0bde2568d274)
 
 ## Result
 Results are saved automatically as images and a markdown file.
