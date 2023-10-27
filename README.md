@@ -4,7 +4,8 @@ The purpose of this project is to set up a cloud-hosted Jupyter Notebook and per
 
 ## Google Colab Link
 https://colab.research.google.com/drive/1jOa5mtyJ7oA7C078nc3LKKJkZSOJ5jvV#scrollTo=3ldZEIag7K6P
-It can also be found in Mini_Project_9.ipynb
+
+It can also be found in Mini_Project_9.ipynb.
 
 ## Steps
 1. Create a new google colab notebook
