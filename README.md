@@ -5,7 +5,7 @@ The purpose of this project is to set up a cloud-hosted Jupyter Notebook and per
 ## Google Colab Link
 https://colab.research.google.com/drive/1jOa5mtyJ7oA7C078nc3LKKJkZSOJ5jvV#scrollTo=3ldZEIag7K6P
 
-## Steos
+## Steps
 1. Create a new google colab notebook
 2. Import necessary packages
 3. Read in dataset
