@@ -2,11 +2,9 @@ name: Test
 
 on:
   push:
-    branches:
-      - main
+    branches: [ "main" ]
   pull_request:
-    branches:
-      - main
+    branches: [ "main" ]
   workflow_dispatch:
 
 jobs:
@@ -14,12 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-
       - name: install packages
         run: make install
-
       - name: test
         run: make test
-
-      - name: generate_and_push
-        run: make generate_and_push
